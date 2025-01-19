@@ -1,0 +1,18 @@
+1733608994238	geckodriver	INFO	Listening on 127.0.0.1:54614
+1733608997308	mozrunner::runner	INFO	Running command: "C:\\Users\\Anastazja\\.cache\\selenium\\firefox\\win64\\133.0\\firefox.exe" "--marionette" "--remote-debugg ... "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ANASTA~1\\AppData\\Local\\Temp\\rust_mozprofileKUS462"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+Dynamically enable window occlusion 0
+1733608997581	Marionette	INFO	Marionette enabled
+1733608997695	Marionette	INFO	Listening on port 54623
+WebDriver BiDi listening on ws://127.0.0.1:54615
+Read port: 54623
+1733608997827	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54615/devtools/browser/6d8397a1-c365-473b-9201-85c332bce896
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=8ee7ce24ce1d70c2&lang=auto line 1 > Function, line 949: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1733609002238	Marionette	INFO	Stopped listening on port 54623
+JavaScript warning: https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=8ee7ce24ce1d70c2&lang=auto, line 1: Script terminated by timeout at:
+f5@https://challenges.cloudflare.com/cdn-cgi/challenge-platform/h/g/orchestrate/chl_api/v1?ray=8ee7ce24ce1d70c2&lang=auto:1:74222
+
+Dynamically enable window occlusion 1
